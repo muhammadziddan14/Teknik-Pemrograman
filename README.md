@@ -9,8 +9,8 @@ Program untuk menentukan kategori tipe data integer yang paling efisien (`byte`,
 
 ### 2. Constants (Constants.java & Constants2.java)
 Latihan penggunaan kata kunci `final` di Java.
-* **Constants.java**: Menunjukkan penggunaan konstanta di dalam metode `main`.
-* **Constants2.java**: Menunjukkan penggunaan konstanta statis (`static final`) yang dapat diakses oleh seluruh bagian kelas.
+**Constants.java**: Menunjukkan penggunaan konstanta di dalam metode `main`.
+**Constants2.java**: Menunjukkan penggunaan konstanta statis (`static final`) yang dapat diakses oleh seluruh bagian kelas.
 
 ### 3. Floating Point (FloatingPoint.java)
 Eksperimen dengan tipe data bilangan pecahan. Tugas ini mendemonstrasikan bagaimana Java menangani pembulatan angka menggunakan fungsi `Math.round()` dan perilaku tipe data `double`.
